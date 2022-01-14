@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [A Rust CLI template on Gitpod](#a-rust-cli-template-on-gitpod)
+  - [Next Steps](#next-steps)
+  - [Get Started With Your Own Project](#get-started-with-your-own-project)
+    - [A new project](#a-new-project)
+    - [An existing project](#an-existing-project)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # A Rust CLI template on Gitpod
 
 This is a [Rust CLI](https://rust-starter.github.io) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
