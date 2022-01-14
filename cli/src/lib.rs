@@ -46,7 +46,7 @@ pub fn cli_config() -> Result<clap::ArgMatches> {
                 .short('c')
                 .long("config")
                 .value_name("FILE")
-                .about("Set a custom config file")
+                .help("Set a custom config file")
                 .takes_value(true),
         )
         .subcommand(App::new("hazard").about("Generate a hazardous occurance"))
